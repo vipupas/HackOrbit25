@@ -20,3 +20,10 @@
     Gives priority to emergency vehicles
 
     Supports deployment on edge devices (e.g., Raspberry Pi, Jetson Nano) or remote servers
+<h2>🧰 Software & Tools</h2>
+
+    Python
+    OpenCV
+    TensorFlow / PyTorch
+    YOLO8 / SSD object detection models
+    
