@@ -1,11 +1,11 @@
-🚦 AI-Powered Traffic Light Management System
+<h1>🚦 AI-Powered Traffic Light Management System</h1>
 
     HackOrbit 2025 | Team: CodeRonin
 
-Theme
+<h2>Theme</h2>
 
   Artificial Intelligence and Machine Learning
-Problem Statement
+<h2>Problem Statement</h2>
 
   Modern cities face severe traffic congestion due to non-adaptive traffic light systems that:
 
@@ -17,7 +17,7 @@ Problem Statement
 
     Perform poorly during peak hours or uneven traffic loads
 
-Proposed Solution
+<h2>Proposed Solution</h2>
 
   An AI-powered dynamic traffic signal system that:
 
