@@ -2,12 +2,12 @@
 
     HackOrbit 2025 | Team: CodeRonin
 
-<h2>Theme</h2>
+<h2>Theme : </h2>
 
-  Artificial Intelligence and Machine Learning
-<h2>Problem Statement</h2>
+  <h3>Artificial Intelligence and Machine Learning</h3>
+<h2>Problem Statement : </h2>
 
-  Modern cities face severe traffic congestion due to non-adaptive traffic light systems that:
+  <h3>Modern cities face severe traffic congestion due to non-adaptive traffic light systems that:</h3>
 
     Use fixed signal timings
 
