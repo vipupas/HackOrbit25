@@ -26,4 +26,11 @@
     OpenCV
     TensorFlow / PyTorch
     YOLO8 / SSD object detection models
+
+<h2>Proportionally divide time based on density</h2>
+
+<h4>We calculate the share of green time for each road:</h4>
+
+green_time_road_i = (vehicles_on_road_i / total_vehicles_on_all_roads) * total_time
+
     
