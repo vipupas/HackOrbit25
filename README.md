@@ -1,6 +1,6 @@
 <h1>🚦 <b><u>AI-Powered Traffic Light Management System</u></b></h1>
 
-    HackOrbit 2025 | Team: CodeRonin
+HackOrbit 2025 | Team: CodeRonin
 
 <h2>Theme : </h2>
 
